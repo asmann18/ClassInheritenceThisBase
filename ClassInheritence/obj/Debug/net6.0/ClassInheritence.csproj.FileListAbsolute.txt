@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\ClassInheritence\ClassInheritence\bin\Debug\net6.0\ClassInheritence.exe
+C:\Users\DELL\source\repos\ClassInheritence\ClassInheritence\bin\Debug\net6.0\ClassInheritence.deps.json
+C:\Users\DELL\source\repos\ClassInheritence\ClassInheritence\bin\Debug\net6.0\ClassInheritence.runtimeconfig.json
+C:\Users\DELL\source\repos\ClassInheritence\ClassInheritence\bin\Debug\net6.0\ClassInheritence.dll
+C:\Users\DELL\source\repos\ClassInheritence\ClassInheritence\bin\Debug\net6.0\ClassInheritence.pdb
+C:\Users\DELL\source\repos\ClassInheritence\ClassInheritence\obj\Debug\net6.0\ClassInheritence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\ClassInheritence\ClassInheritence\obj\Debug\net6.0\ClassInheritence.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ClassInheritence\ClassInheritence\obj\Debug\net6.0\ClassInheritence.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ClassInheritence\ClassInheritence\obj\Debug\net6.0\ClassInheritence.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ClassInheritence\ClassInheritence\obj\Debug\net6.0\ClassInheritence.dll
+C:\Users\DELL\source\repos\ClassInheritence\ClassInheritence\obj\Debug\net6.0\refint\ClassInheritence.dll
+C:\Users\DELL\source\repos\ClassInheritence\ClassInheritence\obj\Debug\net6.0\ClassInheritence.pdb
+C:\Users\DELL\source\repos\ClassInheritence\ClassInheritence\obj\Debug\net6.0\ClassInheritence.genruntimeconfig.cache
+C:\Users\DELL\source\repos\ClassInheritence\ClassInheritence\obj\Debug\net6.0\ref\ClassInheritence.dll
